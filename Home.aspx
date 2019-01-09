@@ -23,19 +23,28 @@
                     </div>
                     <div class="col-lg-3">
                         <div class="form-group">
-                            <input class="form-control" type="text" placeholder="Where">
-                            <i class="icon_pin_alt"></i>
-                        </div>
-                    </div>
-                    <div class="col-lg-3">
-                        <select class="wide">
-                            <option>All Categories</option>
+                            <select class="wide" placeholder="Where">
+                            <option>-Select Where-</option>
                             <option>Airport</option>
                             <option>Hotel</option>
                             <option>Restaurant</option>
                             <option>Railway</option>
                             <option>Event</option>
                             <option>Gym</option>
+                            <option>Other</option>
+                        </select>
+                            <i class="icon_pin_alt"></i>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <select class="wide">
+                            <option>All Categories</option>
+                            <option>Mobile</option>
+                            <option>Laptop</option>
+                            <option>KeyChain</option>
+                            <option>Wallet</option>
+                            <option>Data Card</option>
+                           
                         </select>
                     </div>
                     <div class="col-lg-2">
@@ -93,10 +102,10 @@
                 <div class="col-lg-3 col-sm-6">
                     <a href="detail-shop.html" class="grid_item small">
                     <figure>
-                    <img src="img/shop_1.jpg" alt="">
+                    <img src="img/1.jpeg" alt="">
                     <div class="info">
                         <h3>
-                            Victoria Secretes</h3>
+                            Mens Wallet @ Lucknow</h3>
                             <i>Report by Faraaz @ 4.30pm</i>
                     </div>
                     </figure>
@@ -105,10 +114,11 @@
                 <div class="col-lg-3 col-sm-6">
                     <a href="detail-shop.html" class="grid_item small">
                     <figure>
-                    <img src="img/shop_2.jpg" alt="">
+                    <img src="img/2.jpg" alt="">
                     <div class="info">
                         <h3>
-                            Louis Vuitton</h3>
+                            Louis Vuitton @ Delhi</h3>
+                         <i>Report by faraaz @ 5.30pm</i>
                     </div>
                     </figure>
                     </a>
@@ -116,10 +126,11 @@
                 <div class="col-lg-3 col-sm-6">
                     <a href="detail-shop.html" class="grid_item small">
                     <figure>
-                    <img src="img/shop_3.jpg" alt="">
+                    <img src="img/3.jpg" alt="">
                     <div class="info">
                         <h3>
-                            Burberry</h3>
+                            Samsung V650 @ Mumbai</h3>
+                        <i>Report by faraaz @ 6.30pm</i>
                     </div>
                     </figure>
                     </a>
@@ -127,10 +138,11 @@
                 <div class="col-lg-3 col-sm-6">
                     <a href="detail-shop.html" class="grid_item small">
                     <figure>
-                    <img src="img/shop_4.jpg" alt="">
+                    <img src="img/4.jpg" alt="">
                     <div class="info">
                         <h3>
-                            Pinko</h3>
+                            Lg Mobile S32 @ Kanpur</h3>
+                        <i>Report by faraaz @ 7.30pm</i>
                     </div>
                     </figure>
                     </a>
@@ -153,10 +165,10 @@
                 <div class="col-lg-3 col-sm-6">
                     <a href="detail-restaurant.html" class="grid_item small">
                     <figure>
-                    <img src="img/restaurant_1.jpg" alt="">
+                    <img src="img/5.jpg" alt="">
                     <div class="info">
                         <h3>
-                            Da Alfredo</h3>
+                            Mobile Phones</h3>
                     </div>
                     </figure>
                     </a>
@@ -164,10 +176,10 @@
                 <div class="col-lg-3 col-sm-6">
                     <a href="detail-restaurant.html" class="grid_item small">
                     <figure>
-                    <img src="img/restaurant_2.jpg" alt="">
+                    <img src="img/7.jpg" alt="">
                     <div class="info">
                         <h3>
-                            Bistroter</h3>
+                            Key chains</h3>
                     </div>
                     </figure>
                     </a>
@@ -175,10 +187,10 @@
                 <div class="col-lg-3 col-sm-6">
                     <a href="detail-restaurant.html" class="grid_item small">
                     <figure>
-                    <img src="img/restaurant_3.jpg" alt="">
+                    <img src="img/8.jpg" alt="">
                     <div class="info">
                         <h3>
-                            Da Luigi</h3>
+                            Luggage</h3>
                     </div>
                     </figure>
                     </a>
@@ -186,10 +198,10 @@
                 <div class="col-lg-3 col-sm-6">
                     <a href="detail-restaurant.html" class="grid_item small">
                     <figure>
-                    <img src="img/restaurant_4.jpg" alt="">
+                    <img src="img/10.jpg" alt="">
                     <div class="info">
                         <h3>
-                            Marco King</h3>
+                            Bags and Wallet</h3>
                     </div>
                     </figure>
                     </a>
@@ -203,7 +215,7 @@
 			<div class="main_title_3">
                 <span></span>
                 <h2>
-                    Found @ Levana Suites - Lucknow</h2>
+                    Found @ Airport - Lucknow</h2>
                 <p>
                     </p>
                 <a href="grid-listings-filterscol.html">See all</a>
@@ -283,16 +295,16 @@
                         <h2>
                             How it Works</h2>
                         <p>
-                            Cum doctus civibus efficiantur in imperdiet deterruisset.</p>
+                            Search  |   Claim   |   Ship</p>
                     </div>
                     <div class="row">
                         <div class="col-md-4">
                             <div class="box_how">
                                 <i class="pe-7s-search"></i>
                                 <h3>
-                                    Search Locations</h3>
+                                    Search </h3>
                                 <p>
-                                    An nec placerat repudiare scripserit, temporibus complectitur at sea, vel ignota fierent eloquentiam id.</p>
+                                    Search for the item you lost or Send Alerts for the lost item</p>
                                 <span></span>
                             </div>
                         </div>
@@ -300,9 +312,9 @@
                             <div class="box_how">
                                 <i class="pe-7s-info"></i>
                                 <h3>
-                                    View Location Info</h3>
+                                    Claim</h3>
                                 <p>
-                                    An nec placerat repudiare scripserit, temporibus complectitur at sea, vel ignota fierent eloquentiam id.</p>
+                                    Tags need no claims, No-tags need Answer of Questions about the item you lost</p>
                                 <span></span>
                             </div>
                         </div>
@@ -310,15 +322,15 @@
                             <div class="box_how">
                                 <i class="pe-7s-like2"></i>
                                 <h3>
-                                    Book, Reach or Call</h3>
+                                    Shipped</h3>
                                 <p>
-                                    An nec placerat repudiare scripserit, temporibus complectitur at sea, vel ignota fierent eloquentiam id.</p>
+                                    Pay Shipping cost and We delivered directly at your door step at no extra cost.</p>
                             </div>
                         </div>
                     </div>
 					<!-- /row -->
 					<p class="text-center add_top_30 wow bounceIn" data-wow-delay="0.5">
-                        <a href="account.html" class="btn_1 rounded">Register Now</a></p>
+                        <a href="account.html" class="btn_1 rounded">Register and Get Your Tags Now</a></p>
                 </div>
             </div>
 			<!-- /wrapper -->
@@ -329,13 +341,13 @@
 			<div class="main_title_2">
 						<span><em></em></span>
 						<h2>Doggo App Available</h2>
-						<p>Cum doctus civibus efficiantur in imperdiet deterruisset.</p>
+						<p>ReturnDesk become easy  Get notified for your lost</p>
 					</div>
 			<div class="row justify-content-center text-center">
 				<div class="col-md-6">
 					<img src="img/mobile.svg" alt="" class="img-fluid add_bottom_45">
 					<div class="app_icons"><a href="#0" class="pr-lg-2"><img src="img/app_android.svg" alt=""></a> <a href="#0" class="pl-lg-2"><img src="img/app_apple.svg" alt=""></a></div>
-					<div class="add_bottom_15"><small>*An eum dolores tractatos, aeterno menandri deseruisse ut eum.</small></div>
+					<div class="add_bottom_15"><small>*For Business App click here.</small></div>
 				</div>
 			</div>
 		</div>
